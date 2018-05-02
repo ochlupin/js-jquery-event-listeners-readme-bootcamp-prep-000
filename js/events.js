@@ -9,6 +9,12 @@ function frameIt(){
     $('img').addClass('tasty');
   })
 }
+function submitIt(){
+
+}
+function pressIt(){
+  
+}
 $(document).ready(function(){
 
 // call functions here
